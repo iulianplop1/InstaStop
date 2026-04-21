@@ -15,12 +15,6 @@ It was an excellent technical challenge to learn about Android Background Servic
 - **Full Overlay**: Breaches the app interface with a custom goal message.
 - **Auto-Close**: Accessibility service automatically dismisses the distracted app.
 
-## Tech Stack
-- Kotlin
-- Android Jetpack
-- AccessibilityService API
-- SYSTEM_ALERT_WINDOW (Overlay)
-
 ## Try It Out
 View the project landing page here: [InstaStop Project Page](https://iulianplop1.github.io/InstaStop/)
 
